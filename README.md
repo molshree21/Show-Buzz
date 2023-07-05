@@ -1,3 +1,18 @@
+#Link : https://show-buzz.vercel.app/
+
+#How does it Look -->
+![image](https://github.com/molshree21/Show-Buzz/assets/97457665/abbb0ebb-edc2-4f33-aa2c-b437358a18e8)
+
+![image](https://github.com/molshree21/Show-Buzz/assets/97457665/8578f5f0-8682-4c25-8541-abed1b04f04e)
+
+![image](https://github.com/molshree21/Show-Buzz/assets/97457665/0964df88-ef5c-4156-b46f-aecab391fa30)
+
+![image](https://github.com/molshree21/Show-Buzz/assets/97457665/8a0634b8-aedb-42ba-bedd-536cfcb943f9)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
