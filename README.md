@@ -1,4 +1,4 @@
-#Link : https://show-buzz.vercel.app/
+# Use It : https://show-buzz.vercel.app/
 
 Show-Buzz is a user-friendly Box-Office Application made using React. Tvmaze Api , React Query is used to fetch the information of shows and actors.
 Styled Compunents is used for Styling . 
