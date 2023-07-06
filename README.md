@@ -4,7 +4,7 @@ Show-Buzz is a user-friendly Box-Office Application made using React. Tvmaze Api
 Styled Compunents is used for Styling . 
 
 
-#How does it Look -->
+# How does it Look -->
 ![image](https://github.com/molshree21/Show-Buzz/assets/97457665/abbb0ebb-edc2-4f33-aa2c-b437358a18e8)
 
 ![image](https://github.com/molshree21/Show-Buzz/assets/97457665/8578f5f0-8682-4c25-8541-abed1b04f04e)
